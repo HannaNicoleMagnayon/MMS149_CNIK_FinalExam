@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <html id="ecwid_html" lang="en"><head>
-	<meta charset="utf-8"> 
+	<meta charset="utf-8">  <!-- Comment here --> 
 	<meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, viewport-fit=cover">
 	<meta name="referrer" content="origin">
 	<meta name="generator" content="ec-instant-site">
